@@ -21,7 +21,7 @@ export default function Navbar() {
 
             <div className="space-x-4">
                 <Link href="/">Home</Link>
-                <Link href="/document">문서 분석</Link>
+                <Link href="/documents">문서 분석</Link>
                 <Link href="/contact">Contact</Link>
 
                 {/* 🔥 게시판 메뉴 추가 */}
